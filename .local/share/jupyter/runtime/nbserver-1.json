@@ -1,0 +1,11 @@
+{
+  "base_url": "/binder/jupyter/user/wienerr-test-av06ys2d/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "Pwf7YvaPTmGwzaJaYhX11w",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/wienerr-test-av06ys2d/"
+}
